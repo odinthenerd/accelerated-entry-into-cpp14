@@ -51,7 +51,7 @@
  - functiors / lambdas
  - algorithms (any_of, partition, sort2, transform) 
 
- Übung:
+Übung:
  - counted set 
  
  # Part 5
@@ -63,7 +63,7 @@
  - exceptions
  - scope guard
 
- Übung:
+Übung:
  - ???
  
  # Part 6 
@@ -74,5 +74,5 @@
  - async
  - atomics
 
- Übung:
+Übung:
  - ???
