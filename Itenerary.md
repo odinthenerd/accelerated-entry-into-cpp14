@@ -3,7 +3,7 @@
  - Data Types (bool, int, floar / double, enum, char, string)
  - array (do not use)
  - if / else
- - struct / class (vor allem speicher organization, hier nur POD sp‰ter mehr)
+ - struct / class (vor allem speicher organization, hier nur POD sp√§ter mehr)
  - in the beginning god created main
  - function
  - overloaded operators
@@ -12,7 +12,8 @@
  - member function
  - string is different
  - hello world
-‹bung:
+
+√úbung:
  - BMI rechner
  
  # Part 2
@@ -26,7 +27,8 @@
  - translation unit
  - ODR (one deffinition rule)
  - optimizer
-‹bung:
+
+√úbung:
  - ???
  
  # Part 3
@@ -39,7 +41,8 @@
  - template classes
  - move 
  - make_shared / make_unique
-‹bung:
+
+√úbung:
  - string like container
  
  # Part 4
@@ -47,7 +50,8 @@
  - algorithms (find, generate, shuffel, sort)
  - functiors / lambdas
  - algorithms (any_of, partition, sort2, transform) 
- ‹bung:
+
+ √úbung:
  - counted set 
  
  # Part 5
@@ -58,6 +62,9 @@
   - reference_wrapper
   - exceptions
   - scope guard
+
+ √úbung:
+ - ???
   
   # Part 6 
   - polymorphism
@@ -66,3 +73,6 @@
   #part 7 
   - async
   - atomics
+
+ √úbung:
+ - ???
