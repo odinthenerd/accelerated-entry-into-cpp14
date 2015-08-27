@@ -55,24 +55,24 @@
  - counted set 
  
  # Part 5
-  - regex
-  - variadics
-  - tuple / tie
-  - StrongTypeAlias
-  - reference_wrapper
-  - exceptions
-  - scope guard
+ - regex
+ - variadics
+ - tuple / tie
+ - StrongTypeAlias
+ - reference_wrapper
+ - exceptions
+ - scope guard
 
  Übung:
  - ???
-  
-  # Part 6 
-  - polymorphism
-  - concept based polymorphism
-  
-  #part 7 
-  - async
-  - atomics
+ 
+ # Part 6 
+ - polymorphism
+ - concept based polymorphism
+ 
+ #part 7 
+ - async
+ - atomics
 
  Übung:
  - ???
