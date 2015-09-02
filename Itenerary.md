@@ -1,9 +1,10 @@
 # Part 1
- - Speicher / Hardware
- - Data Types (bool, int, floar / double, enum, char, string)
+ - memory / hardware
+ - typed vs. values
+ - data types (bool, int, floar / double, enum, char, string)
  - array (do not use)
  - if / else
- - struct / class (vor allem speicher organization, hier nur POD später mehr)
+ - struct / class (especially memory organization, POD, base class etc.)
  - in the beginning god created main
  - function
  - overloaded operators
@@ -14,7 +15,7 @@
  - hello world
 
 Übung:
- - BMI rechner
+ - BMI calculator
  
  # Part 2
  - implicit conversions
@@ -29,7 +30,7 @@
  - optimizer
 
 Übung:
- - ???
+ - my first type
  
  # Part 3
  - new / delete (do not use)
@@ -64,15 +65,19 @@
  - scope guard
 
 Übung:
- - ???
+ - count sentances
  
  # Part 6 
  - polymorphism
  - concept based polymorphism
+
+Übung:
+ - universal printer
  
  #part 7 
  - async
  - atomics
 
 Übung:
- - ???
+ - async sum
+
