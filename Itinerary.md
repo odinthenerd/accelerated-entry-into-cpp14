@@ -1,12 +1,13 @@
 # Part 1
  - memory / hardware
  - types vs. values
- - data types (bool, int, floar / double, enum, char, string)
- - array (do not use)
+ - data types (bool, int, float / double, enum, char, string)
+ - array (only use in library code)
+ - keywords / operator (everything that is not a keyword is built somewhere in a library using C++)
+ - in the beginning god created main (hah! not a keyword, but special)
+ - function (with overloading but no overload rules, no ADL)
  - if / else
  - struct / class (especially memory organization, POD, base class etc.)
- - in the beginning god created main
- - function
  - overloaded operators
  - namespaces 1
  - aliases 1 pointer, reference
