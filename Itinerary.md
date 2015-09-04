@@ -1,6 +1,6 @@
 # Part 1
  - memory / hardware
- - typed vs. values
+ - types vs. values
  - data types (bool, int, floar / double, enum, char, string)
  - array (do not use)
  - if / else
