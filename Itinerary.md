@@ -6,22 +6,23 @@
  - keywords / operator (everything that is not a keyword is built somewhere in a library using C++)
  - in the beginning god created main (hah! not a keyword, but special)
  - function (with overloading but no overload rules, no ADL)
+ - operators
+ - overloaded operators
  - if / else
  - struct / class (especially memory organization, POD, base class etc.)
- - overloaded operators
- - namespaces 1
+ - scope operator
  - aliases 1 pointer, reference
  - member function
- - string is different
+ - string is different (string is a class with many overloaded operators)
  - hello world
 
-Übung:
+Homework:
  - BMI calculator
  
  # Part 2
  - implicit conversions
  - function overload resolution
- - namespaces 2
+ - namespaces 
  - ADL (argument dependant lookup)
  - declairation / deffinition 
  - organization / headder / headder only
@@ -30,13 +31,13 @@
  - ODR (one deffinition rule)
  - optimizer
 
-Übung:
+Homework:
  - my first type
  
  # Part 3
  - new / delete (do not use)
- - constructor / distructor
  - stack / heap
+ - constructor / distructor
  - handle data
  - string 
  - template function
@@ -44,7 +45,7 @@
  - move 
  - make_shared / make_unique
 
-Übung:
+Homework:
  - string like container
  
  # Part 4
@@ -53,7 +54,7 @@
  - functiors / lambdas
  - algorithms (any_of, partition, sort2, transform) 
 
-Übung:
+Homework:
  - counted set 
  
  # Part 5
@@ -65,20 +66,20 @@
  - exceptions
  - scope guard
 
-Übung:
+Homework:
  - count sentances
  
  # Part 6 
  - polymorphism
  - concept based polymorphism
 
-Übung:
+Homework:
  - universal printer
  
  #part 7 
  - async
  - atomics
 
-Übung:
+Homework:
  - async sum
 
