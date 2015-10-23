@@ -12,7 +12,7 @@
  - if / else
  - struct / class (especially memory organization, POD, base class etc.)
  - scope operator
- - aliases 1 pointer, reference
+ - aliases 1: pointer, reference
  - member function
  - string is different (string is a class with many overloaded operators)
  - hello world
