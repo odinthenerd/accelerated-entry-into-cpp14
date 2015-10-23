@@ -1,4 +1,5 @@
 # Part 1
+ - introduction, modern style and archetecture 
  - memory / hardware
  - types vs. values
  - data types (bool, int, float / double, enum, char, string)
