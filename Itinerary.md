@@ -31,6 +31,7 @@ Homework:
  - translation unit
  - ODR (one deffinition rule)
  - optimizer
+ - code example: buggy name class
 
 Homework:
  - my first type
@@ -38,6 +39,7 @@ Homework:
  # Part 3
  - new / delete (do not use)
  - stack / heap
+ - scope
  - constructor / distructor
  - handle data
  - string 
