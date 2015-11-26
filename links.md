@@ -2,3 +2,4 @@
  - [std::string](http://www.cplusplus.com/reference/string/string/)
  - [std::cin / std::cout tutorial](http://www.learncpp.com/cpp-tutorial/1-3a-a-first-look-at-cout-cin-endl-namespaces-and-using-statements/)
  - [super easy hello world tutorial](http://www.cplusplus.com/doc/tutorial/introduction/visualstudio/)
+ - [implicit conversions](http://en.cppreference.com/w/cpp/language/implicit_cast)
