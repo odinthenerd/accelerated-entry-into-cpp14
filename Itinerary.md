@@ -31,10 +31,13 @@ Homework:
  - translation unit
  - ODR (one deffinition rule)
  - optimizer
- - code example: buggy name class
+ - code example: BuggyName class
 
 Homework:
- - my first type
+ - find as many bugs in BuggyName as you can
+ - read about conversions
+ - play around with pointers and references
+ - crash a program by dereferenceing an uninitialized pointer
  
  # Part 3
  - new / delete (do not use)
