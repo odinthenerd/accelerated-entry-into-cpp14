@@ -22,9 +22,9 @@ Homework:
  
  # Part 2
  - implicit conversions
- - function overload resolution
  - namespaces 
  - ADL (argument dependant lookup)
+ - function overload resolution
  - declairation / deffinition 
  - organization / headder / headder only
  - inline
