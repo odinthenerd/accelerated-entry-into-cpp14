@@ -39,7 +39,7 @@ Homework:
  - play around with pointers and references
  - crash a program by dereferenceing an uninitialized pointer
  
- # Part 3
+ # Part 3 (17.12.2015)
  - new / delete (do not use)
  - stack / heap
  - scope
@@ -54,7 +54,7 @@ Homework:
 Homework:
  - string like container
  
- # Part 4
+ # Part 4 (7.1.2016)
  - container (vector, dequeue, flat_set, flat_map)
  - algorithms (find, generate, shuffel, sort)
  - functiors / lambdas
@@ -63,7 +63,7 @@ Homework:
 Homework:
  - counted set 
  
- # Part 5
+ # Part 5 (14.1.2016)
  - regex
  - variadics
  - tuple / tie
