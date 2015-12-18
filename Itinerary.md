@@ -40,22 +40,22 @@ Homework:
  - crash a program by dereferenceing an uninitialized pointer
  
  # Part 3 (17.12.2015)
+ - template function
  - new / delete (do not use)
  - stack / heap
  - scope
  - constructor / distructor
  - handle data
  - string 
- - template function
- - template classes
- - move 
- - make_shared / make_unique
+ - container (vector, dequeue, flat_set, flat_map)
 
 Homework:
  - string like container
  
  # Part 4 (7.1.2016)
- - container (vector, dequeue, flat_set, flat_map)
+ - template classes
+ - move 
+ - make_shared / make_unique
  - algorithms (find, generate, shuffel, sort)
  - functiors / lambdas
  - algorithms (any_of, partition, sort2, transform) 
